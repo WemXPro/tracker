@@ -1,2 +1,2 @@
-# pterodactyl
-A rep for issue tracking for pterodactyl resources
+# Pterodactyl issue tracker repository
+A repository for issue tracking for pterodactyl resources for [Carbon Theme](https://pterodactyl-resources.com/resources/resource/11-carbon-theme-pterodactyl--165-/), [Unix Theme](https://pterodactyl-resources.com/resources/resource/3-unix-theme-for-pterodactyl-16x/), [Billing Module](https://pterodactyl-resources.com/resources/resource/13-billing-module-pterodacyl-16x--all-in-one-billing-system-/) & [Plugins Module](https://pterodactyl-resources.com/resources/resource/7-plugins-module-minecraft-for-pterodactyl-151--162/)
