@@ -11,6 +11,7 @@ body:
         - Billing
         - Unix
         - Carbon
+        - Socialite
         - Plugins
     validations:
       required: true
