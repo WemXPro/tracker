@@ -1,5 +1,5 @@
 name: Feature request
-description: Suggest a feature we can add to Nexus
+description: Suggest a feature we can add to theme/module
 labels: ["enhancement"]
 body:
   - type: dropdown
