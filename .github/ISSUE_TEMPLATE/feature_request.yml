@@ -8,7 +8,7 @@ body:
       label: Resource
       description: What resource is this issue about?
       options:
-        - Billing
+        - WemX Pro
         - Unix
         - Carbon
         - Socialite
