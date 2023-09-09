@@ -3,10 +3,10 @@ description: Create a report to help us improve
 labels: ["bug"]
 body:
   - type: dropdown
-    id: resource
+    id: product
     attributes:
-      label: Resource
-      description: What resource is this issue about?
+      label: Product
+      description: What product is this issue about?
       options:
         - WemX Pro
         - Unix
@@ -32,8 +32,8 @@ body:
 
   - type: input
     attributes:
-      label: Resource Version
-      description: Version number of the resource you're running (latest is not a version).
+      label: Product Version
+      description: Version number of the product you're running (latest is not a version).
       placeholder: 1.4.0
     validations:
       required: true

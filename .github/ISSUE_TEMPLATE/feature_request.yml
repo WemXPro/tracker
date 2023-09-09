@@ -3,10 +3,10 @@ description: Suggest a feature we can add to theme/module
 labels: ["enhancement"]
 body:
   - type: dropdown
-    id: resource
+    id: product
     attributes:
-      label: Resource
-      description: What resource is this issue about?
+      label: Product
+      description: What product is this issue about?
       options:
         - WemX Pro
         - Unix
