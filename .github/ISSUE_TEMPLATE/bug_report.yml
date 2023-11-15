@@ -1,5 +1,5 @@
 name: Bug Report
-description: Create a report to help us improve
+description: Create a report to see it being fixed
 labels: ["bug"]
 body:
   - type: dropdown
@@ -8,7 +8,7 @@ body:
       label: Product
       description: What product is this issue about?
       options:
-        - WemX Pro
+        - WemX
         - Unix
         - Carbon
         - Socialite
@@ -18,14 +18,14 @@ body:
   - type: textarea
     attributes:
       label: Describe the issue
-      description: A clear and concise description of what the bug is.
+      description: A clear and concise description of what the issue is
     validations:
       required: true
 
   - type: input
     attributes:
       label: Product Version
-      description: Version number of the product you're running (latest is not a version).
+      description: Version number of the product you're running (latest is not a version)
       placeholder: 1.4.0
     validations:
       required: true
@@ -33,7 +33,7 @@ body:
   - type: input
     attributes:
       label: Pterodactyl Panel Version
-      description: Version number of your Panel (latest is not a version).
+      description: Version number of your Panel (latest is not a version)
       placeholder: 1.4.0
     validations:
       required: false
@@ -41,7 +41,7 @@ body:
   - type: textarea
     attributes:
       label: To Reproduce
-      description: "Steps to reproduce the behaviour."
+      description: Steps to reproduce the behaviour
       placeholder: "1. Go to '...'
         2. Click on '....'
         3. Scroll down to '.....'
@@ -59,13 +59,13 @@ body:
   - type: textarea
     attributes:
       label: Screenshots
-      description: If applicable, add screenshots to help explain your problem.
+      description: If applicable, add screenshots to help explain your problem
     validations:
       required: false
 
   - type: textarea
     attributes:
       label: Additional Information
-      description: Add more information about the problem if necessary.
+      description: Add more information about the problem if necessary
     validations:
       required: false

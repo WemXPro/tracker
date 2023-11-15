@@ -1,8 +1,8 @@
-# Pterodactyl issue tracker repository
-A repository for issue tracking for Vertisan's Pterodactyl Products
+# Bug/suggestion tracker for Vertisan's Products
+This repository is made to track bugs and suggestions in WemX and a couple of Pterodactyl products
 
-## WemX Pro
-[![WemX Pro](/images/wemx.png)](https://wemx.net)
+## WemX ⭐
+[![WemX](/images/wemx.png)](https://wemx.net)
 
 ## Unix Theme
 [![Unix Theme](/images/unix.png)](https://pterodactylmarket.com/resource/221)
