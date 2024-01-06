@@ -2,19 +2,6 @@ name: Bug Report
 description: Create a report to see it being fixed
 labels: ["bug"]
 body:
-  - type: dropdown
-    id: product
-    attributes:
-      label: Product
-      description: What product is this issue about?
-      options:
-        - WemX
-        - Unix
-        - Carbon
-        - Socialite
-    validations:
-      required: true
-
   - type: textarea
     attributes:
       label: Describe the issue
@@ -32,7 +19,7 @@ body:
 
   - type: input
     attributes:
-      label: Pterodactyl Panel Version
+      label: Pterodactyl Panel Version (if applicable)
       description: Version number of your Panel (latest is not a version)
       placeholder: 1.4.0
     validations:
